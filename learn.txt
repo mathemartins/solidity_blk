@@ -1,0 +1,21 @@
+contract is like class in any other programming language
+uint256 - unsigned integer
+bool - booleans
+string - basically text strings
+int256 - signed integer
+address - some kind of address
+bytes32 -
+arrays - like list in python
+mapping - like dictionary in python
+functions - self contain models that execute basic tasks
+struct - is a way of creating new types in solidity, almost like creating new objects in regular programming lan
+
+declare a variable in solidity
+type visibilty name =
+
+memory - objects stored in memory is only called during the execution of the contract call, therefore does not have
+a full lifecycle, always know that when we want to pass a string as an argument in a function, we using
+string memory <argument-name>
+
+
+
